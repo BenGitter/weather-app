@@ -40,6 +40,7 @@ body{
   align-items: center;
   font-size: 5vh;
   transition: font-size 1s;
+  transition: height 1s;
 }
 .color.active img{
   height: 10vh;
